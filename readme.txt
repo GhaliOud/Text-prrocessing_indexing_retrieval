@@ -86,7 +86,3 @@
      - `remove_numbers=True`: Removes numeric tokens.
      - `remove_stopwords=True`: Filters out common stop words.
      - `apply_stemming=True`: Applies stemming using the Porter Stemmer.
-
-------------------------------------------------------------------------------------------
-
-Enjoy exploring the Reuters-21578 dataset and applying advanced indexing techniques!
